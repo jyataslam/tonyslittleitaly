@@ -1,0 +1,46 @@
+.align-initial {
+    align-items: initial;
+    flex-wrap: wrap;
+}
+
+.d-initial {
+    display: initial !important;
+}
+
+.line-height-3 {
+    line-height: 3rem;
+}
+
+.pad-right-2 {
+    padding-right: 2rem;
+}
+
+.menu-list-2 {
+    padding-left: 5rem;
+}
+
+.menu-bold {
+    font-weight: bold;
+}
+
+.menu-main {
+    color: red !important;
+}
+
+.menu-item {
+    margin-bottom: 1.5rem !important;
+}
+
+.mb-custom {
+    margin-bottom: 1.5rem !important;
+}
+
+.story-yelp-image {
+    width: 150px;
+}
+
+@media only screen and (max-width: 530px) {
+    .menu-list-2 {
+        padding-left: 0;
+    }
+}
